@@ -122,3 +122,57 @@ animation-fill-mode: forwards;
     margin: auto;
     text-decoration: none;
 }
+
+/* Meet the Team */
+
+#team {
+    height: 1000px;
+}
+
+#left-team {
+    width: 33%;
+    float: left;
+}
+
+#right-team {
+    width: 33%;
+    float: right;
+}
+
+#center-team {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    width: 100%;
+    margin: 8px 0;
+}
+
+.left-team-heading {
+    width: 80%;
+    float: right;
+    line-height: 30px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-team-heading {
+    width: 80%;
+    float: left;
+    line-height: 30px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.left-team-heading h2 {
+    text-align: center;
+}
+
+.right-team-heading h2 {
+    text-align: center;
+}
+
+.right-team-heading p {
+    text-align: right;
+}
