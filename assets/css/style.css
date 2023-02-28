@@ -75,10 +75,6 @@ h1, h2 {
     color: white;
 }
 
-#image-text h2 {
-    text-align: center;
-}
-
 #hero-image {
     height: 800px;
     width: auto;
@@ -124,5 +120,5 @@ animation-fill-mode: forwards;
 .image-text-two {
     background-color: rgb(173, 6, 189, .4);
     margin: auto;
-    width: 50%;
+    text-decoration: none;
 }
