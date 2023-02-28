@@ -61,3 +61,49 @@ h1, h2 {
 .active {
     border-bottom: 5px solid rgb(173, 6, 189);
 }
+
+/* hero image */
+
+#hero-outer {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#image-text, #image-text h2, #image-text h3 {
+    color: white;
+}
+
+#image-text h2 {
+    text-align: center;
+}
+
+#hero-image {
+    height: 800px;
+    width: auto;
+    background: url(../images/gaming\ convention.jpg) no-repeat center center;
+    opacity: 60%;
+}
+
+/* image text */
+
+#image-text {
+    font-size: 120%;
+    font-family: Tomorrow, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    
+    top: 35%;
+    right: 35%;
+    left: 35%;
+
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.image-text-two {
+    background-color: rgb(173, 6, 189, .4);
+    margin: auto;
+    width: 50%;
+}
