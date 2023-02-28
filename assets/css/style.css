@@ -154,8 +154,8 @@ animation-fill-mode: forwards;
 }
 
 #circle-border {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     padding: 30px;
     border-style: solid;
     border-color: white;
