@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:ital@1&family=Tomorrow:ital,wght@1,600&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border: none;
+}
+
+body {
+    font-family: Genos, sans-serif;
+    color: rgb(173, 6, 189);
+    background-color: black;
+    font-size: 28px;
+    font-weight: 550;
+    font-size: 28px;
 }
