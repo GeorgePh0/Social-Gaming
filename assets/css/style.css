@@ -214,3 +214,22 @@ hr {
     margin: 80px 0;
     font-size: 250%;
 }
+
+.wwd-help {
+    width: 30%;
+    float: left;
+    background-color: aqua;
+}
+
+.wwd-teach {
+    width: 30%;
+    margin: 0 auto;
+    padding: 120px;
+    background-color: red;
+}
+
+.wwd-build {
+    width: 30%;
+    float: right;
+    background-color: green;
+}
