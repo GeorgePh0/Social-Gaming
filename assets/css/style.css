@@ -224,18 +224,30 @@ hr {
     overflow: hidden;
 }
 
+#wwd-content div {
+    color: white;
+    background-color: rgb(0, 0, 0, .8);
+    width: 33.33%;
+    height: 500px;
+    float: right;
+    padding: 60px 40px;
+    text-align: center;
+    border: 2px solid rgb(173, 6, 189);
+    box-sizing: border-box;
+}
+
+#wwd-content h3 {
+    text-transform: uppercase;
+}
+
 .wwd-help {
-    width: 30%;
-    float: left;
+    word-spacing: 4px;
 }
 
 .wwd-teach {
-    width: 30%;
-    margin: 0 auto;
-    padding: 120px;
+    word-spacing: 4px;
 }
 
 .wwd-build {
-    width: 30%;
-    float: right;
+    word-spacing: 4px;
 }
