@@ -202,3 +202,15 @@ hr {
 .right-team-heading p {
     text-align: right;
 }
+
+/* What We Do */
+
+#what-we-do {
+    height: 1000px;
+}
+
+.doing-heading {
+    text-align: center;
+    margin: 80px 0;
+    font-size: 250%;
+}
