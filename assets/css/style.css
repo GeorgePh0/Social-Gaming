@@ -154,18 +154,25 @@ animation-fill-mode: forwards;
 }
 
 #circle-border {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     padding: 30px;
     border-style: solid;
     border-color: white;
-    border-width: 1px;
+    border-width: 5px;
     margin: 0 auto;
+    border-radius: 50%;
+}
+
+#circle-bg {
+    background: url(../images/team.png) no-repeat center center ;
+    height: 100%;
+    border-radius: 50%;
 }
 
 hr {
     width: 100%;
-    margin: 8px 0;
+    margin: 12px 0;
 }
 
 .left-team-heading {
