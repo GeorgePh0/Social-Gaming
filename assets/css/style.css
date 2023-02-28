@@ -84,6 +84,23 @@ h1, h2 {
     width: auto;
     background: url(../images/gaming\ convention.jpg) no-repeat center center;
     opacity: 60%;
+
+
+/* animation zoom effect on loading page */
+
+animation-name: hero-zoom;
+animation-duration: 2s;
+animation-fill-mode: forwards;
+}
+/* level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1.1);
+    }
+    to {
+        transform: scale(1);
+    }
 }
 
 /* image text */
