@@ -255,7 +255,7 @@ hr {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 50px;
 }
 
 .social-icons {
@@ -267,7 +267,8 @@ footer {
 }
 
 .social-icons i {
-    font-size: 150%;
-    margin: 1%;
-    padding: 5%;
+    font-size: 100%;
+    margin: 5%;
+    padding: 2%;
+    color: white;
 }
