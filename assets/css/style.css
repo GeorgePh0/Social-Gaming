@@ -299,6 +299,78 @@ hr {
     overflow: hidden;
 }
 
+#pokemon-go div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    padding: 40px 0 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#warhammer div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    padding: 40px 0 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#dungeons-dragons div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    padding: 40px 0 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#board-games div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    padding: 40px 0 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#gaming-lounge div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 2px solid white;
+    padding: 40px 0 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.events-headings {
+    color: rgb(173, 6, 189);
+}
+
+#line-break {
+    height: 100px;
+}
+
+h2 > i {
+    color: white;
+}
+
 /* footer */
 
 footer {
