@@ -125,7 +125,7 @@ animation-fill-mode: forwards;
     text-decoration: none;
 }
 
-/* Meet the Team */
+/* meet the team */
 
 #meet-the-team {
     text-align: center;
@@ -203,7 +203,7 @@ hr {
     text-align: right;
 }
 
-/* What We Do */
+/* what we do */
 
 #what-we-do {
     height: 850px;
@@ -250,4 +250,24 @@ hr {
 
 .wwd-build {
     word-spacing: 4px;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons > li {
+    display: inline;
+}
+
+.social-icons i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
 }
