@@ -252,6 +252,53 @@ hr {
     word-spacing: 4px;
 }
 
+/* events meetup */
+
+#pokemon-go {
+    background-image: url(../images/pokemon-go-meetup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#warhammer {
+    background-image: url(../images/warhammer-meetup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#dungeons-dragons {
+    background-image: url(../images/d&d-meetup.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#board-games {
+    background-image: url(../images/board-games-meetup.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#gaming-lounge {
+    background-image: url(../images/pc-lounges.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
 /* footer */
 
 footer {
