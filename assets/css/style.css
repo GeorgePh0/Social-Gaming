@@ -430,8 +430,67 @@ h2 > i {
         clear: left;
     }
 
+    #hero-outer {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    #team {
+        font-size: 80%;
+    }
+    
+    #what-we-do {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 800px) {
     #image-text {
         left: 0;
+    }
+
+    #team {
+        margin: 0;
+    }
+
+    #meet-the-team {
+        text-align: left;
+        font-size: 40px;
+    }
+
+    .left-team-heading {
+        margin: 0;
+        padding: 0;
+        float: left;
+        text-align: left;
+    }
+
+    .right-team-heading {
+        margin: 0;
+        padding: 0;
+        float: left;
+        text-align: left;
+    }
+
+    .doing-heading {
+        text-align: left;
+        font-size: 40px;
+    }
+
+    #wwd-content {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #circle-border {
+        display: none;
+    }
+    
+    #wwd-content > div {
+        font-size: 15px;
+        height: 220px;
     }
 }
 
