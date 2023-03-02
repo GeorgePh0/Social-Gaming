@@ -429,6 +429,11 @@ h2 > i {
         float: left;
         clear: left;
     }
+
+    #image-text {
+        float: left;
+        left: 35%;
+    }
 }
 
 /* footer */
