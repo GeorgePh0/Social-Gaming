@@ -494,6 +494,24 @@ h2 > i {
     }
 }
 
+/* contact us hero image text */
+
+#image-text-two {
+    font-size: 120%;
+    font-family: Tomorrow, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    
+    top: 35%;
+    right: 35%;
+    left: 35%;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    position: absolute;
+}
+
 /* footer */
 
 footer {
