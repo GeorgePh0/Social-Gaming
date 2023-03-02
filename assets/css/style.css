@@ -371,6 +371,10 @@ h2 > i {
     color: white;
 }
 
+.enlarge:hover {
+    transform: scale(1.3);
+}
+
 /* footer */
 
 footer {
