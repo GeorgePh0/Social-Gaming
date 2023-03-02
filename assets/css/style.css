@@ -67,7 +67,7 @@ h1, h2 {
 /* hero image */
 
 #hero-outer {
-    height: 800px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -110,7 +110,7 @@ animation-fill-mode: forwards;
     letter-spacing: 2px;
     text-align: center;
     
-    top: 35%;
+    top: 25%;
     right: 35%;
     left: 35%;
 
