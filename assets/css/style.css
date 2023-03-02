@@ -377,7 +377,7 @@ h2 > i {
 
 /* media queries */
 
-@media screen and (max-width:1700px) {
+@media screen and (max-width: 1700px) {
     #team {
         width: 65%;
         height: 1700px;
@@ -415,12 +415,19 @@ h2 > i {
     
 }
 
-@media screen and (max-width:1500px) {
+@media screen and (max-width: 1500px) {
     #wwd-content > div {
         width: 100%;
         clear: both;
         height: 200px;
         padding: 0;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    #navbar {
+        float: left;
+        clear: left;
     }
 }
 
