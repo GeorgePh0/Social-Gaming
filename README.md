@@ -66,4 +66,15 @@ The live website can be found here (put link in here).
 
 ### Images
 
+All images were taken from google images and sourced through websites.
+
+- [Hero Image](https://www.pexels.com/photo/a-man-playing-video-games-using-a-computer-9071737/)
+- [Meet The Team circle](https://business-bulletin.co.uk/six-ways-to-build-a-winning-team)
+- [What We Do](https://pokemongolive.com/post/tainan-safari-zone/)
+- [Event page Pokemon go](https://www.eurogamer.net/pokemon-go-will-let-you-raid-with-friends-from-home)
+- [Event page Warhammer](https://warhammer40000.com/)
+- [Event page Dungeons & Dragons](https://ludusproducts.com/collections/dungeons-dragons)
+- [Event page Board Games](https://www.reddit.com/r/AGOTBoardGame/comments/cjg1r0/game_of_thrones_a_dance_with_dragons_8_player/)
+- [Event page PC Lounge](https://pcbang.uk/)
+
 ### Acknowledgements
