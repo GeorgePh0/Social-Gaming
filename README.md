@@ -16,6 +16,7 @@ The live website can be found here (put link in here).
     - [Events](#events-page)
     - [Contact us Page](#contact-page)
     - [Footer](#footer)
+- [Technologies](#technologies)
 - [Testing](#testing)
     - [Validation](#validator-testing)
 - [Bugs](#bugs)
@@ -26,23 +27,62 @@ The live website can be found here (put link in here).
 
 ### 1. First Time Visitor Goals
 
+- a. As a First Time Visitor, I want to easily understand what the website is for and why.
+- b. As a First Time Visitor, I want to Find information on what event to attend and on what day.
+- c. As a First Time Visitor, I want to be able to navigate around the site to find the content they are looking for. 
+
 ### 2. Returning Visitor Goals
 
+- a. As a Returning Visitor, I want to be able to See the updated events for the week quickly and easily.
+- b. As a Returning Visitor, I want to be able to contact the team to find out more information or ask for help.
+- c. As a Returning Visitor, I want to be able to access and view the website quickly and easily.
+
 ### 3. Frequent Visitor Goals
+
+- a. As a Frequent Visitor, I want to be able to See the updated events for the week quickly and easily.
+- b. As a Frequent Visitor, I want to be able to contact the team to give feedback on the events attended or ask questions.
 
 ## **Features**
 
 ### Navigation Bar
 
+- The navigation bar is big and bold to be able to get people to notice the sites purpose quickly. The navigation has three
+links to different pages, it includes a Home page, Events page and a Contact us page along with the logo in the top left corner.
+The navigation bar is responsive to multiple screen sizes, as the screen gets smaller, the Home page, Events page and Contact us page
+all move below the logo.
+
+![Navbar Picture](assets/readme-images/Navbar.jpg)
+
 ### Hero Image
 
-### Landing Page
+![Hero Picture](add picture here)
+
+### Meet The Team
+
+![Meet The Team Picture](add picture here)
+
+### What We Do
+
+![What We Do Picture](add picture here)
 
 ### Events Page
 
+![Events Picture](add picture here)
+
 ### Contact Page
 
+![Contact us Picture](add picture here)
+
 ### Footer
+
+![Footer Picture](add picture here)
+
+## **Technologies**
+
+- HTML: I used html, the main language of my project to add structure and content.
+- CSS: I used css to style my website.
+- Google Fonts: I imported the fonts "Tomorrow" and "Genos".
+- Font Awesome: I used this website for icons in the footer for social media links.
 
 ## **Testing**
 
@@ -55,6 +95,9 @@ The live website can be found here (put link in here).
 ### Compatibility
 
 ## **Bugs**
+
+When viewing on a mobile, the image at the bottom of the meet the team section would cause the circle to become an oval and the image will be of the sky. 
+I fixed this by using css style display: none; which would remove the image for people using mobile.
 
 ## **Deployment**
 
