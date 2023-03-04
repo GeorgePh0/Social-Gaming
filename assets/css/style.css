@@ -462,15 +462,14 @@ h2 > i {
     .left-team-heading {
         margin: 0;
         padding: 0;
-        float: left;
         text-align: left;
     }
 
     .right-team-heading {
         margin: 0;
         padding: 0;
-        float: left;
         text-align: left;
+        float: right;
     }
 
     .doing-heading {
@@ -484,10 +483,18 @@ h2 > i {
 }
 
 @media screen and (max-width: 550px) {
-    #circle-border {
-        display: none;
+    #meet-the-team {
+        font-size: 25px;
     }
     
+    .left-team-heading {
+        font-size: 15px;
+    }
+
+    .right-team-heading {
+        font-size: 15px;
+    }
+
     #wwd-content > div {
         font-size: 15px;
         height: 220px;
