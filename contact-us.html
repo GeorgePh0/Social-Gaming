@@ -44,36 +44,36 @@
 
     <!--  Contact Us Page  -->
 
-    <section>
+    <section id="contact">
         <div>
-            <h2>Contact Us</h2>
+            <h2 class="contact-us-heading">Contact Us</h2>
         </div>
-        <form action="https://formdump.codeinstitute.net/" method="POST">
-            <div>
+            <form action="https://formdump.codeinstitute.net/" method="POST" class="contact-form">
+                <div class="info">
+                    <label for="fname">First Name :</label>
+                    <input type="text" name="first_name" id="fname" class="questionaire" required>
 
-                <label for="fname">First Name:</label>
-                <input type="text" name="first_name" id="fname" class="questionaire" placeholder="First Name" required>
+                    <label for="lname">Last Name :</label>
+                    <input type="text" name="last_name" id="lname" class="questionaire" required>
 
-                <label for="lname">Last Name:</label>
-                <input type="text" name="last_name" id="lname" class="questionaire" placeholder="Last Name" required>
+                    <label for="email">Email :</label>
+                    <input type="email" name="email_address" id="email" class="questionaire" required>
 
-                <label for="email">Email:</label>
-                <input type="email" name="email_address" id="email" class="questionaire" placeholder="Email Address" required>
+                    <label for="game">Game :</label>
+                    <select name="game" id="game">
+                        <option value="pokemongo">Pokemon Go</option>
+                        <option value="warhammer">Warhammer</option>
+                        <option value="d&d">Dungeons & Dragons</option>
+                        <option value="board">Board Games</option>
+                        <option value="gaminglounge">Gaming Lounge</option>
+                    </select>
+                        <hr>
+                    <label for="message">Message :</label>
+                    <textarea name="message" id="message" class="questionaire" placeholder="Write something..."></textarea>
 
-                <label for="game">Game</label>
-                <select name="game" id="game">
-                    <option value="pokemongo">Pokemon Go</option>
-                    <option value="warhammer">Warhammer</option>
-                    <option value="d&d">Dungeons & Dragons</option>
-                    <option value="board">Board Games</option>
-                    <option value="gaminglounge">Gaming Lounge</option>
-                </select>
-
-                <textarea name="message" id="message" class="questionaire" placeholder="Write something..." cols="30" rows="10"></textarea>
-
-                <input class="submit-btn" type="sumbit" value="Submit">
-            </div>
-        </form>
+                    <input class="submit-btn" type="sumbit" value="Submit">
+                </div>
+            </form>
     </section>
     <footer>
         <ul class="social-icons">

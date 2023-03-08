@@ -519,6 +519,77 @@ h2 > i {
     position: absolute;
 }
 
+/* contact us */
+
+#contact {
+    clear: both;
+    height: 900px;
+}
+
+.contact-us-heading {
+    margin: 40px;
+    text-align: center;
+}
+
+.contact-form {
+    max-width: 600px;
+    padding: 30px;
+    margin-left: 35%;
+    border: 4px solid #ffffffea;
+    border-radius: 50px;
+    background-color: rgb(173, 6, 189, 0.1);
+    height: 700px;
+}
+
+.info {
+    margin: 10px;
+}
+
+#game {
+    width: 100%;
+    line-height: 35px;
+    height: 40px;
+    text-align: center;
+    font-size: 90%;
+}
+
+.questionaire {
+    width: 100%;
+    line-height: 35px;
+    margin: 15px 0 30px;
+    font-size: 90%;
+}
+
+.questionaire:hover {
+    border-color: black;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+textarea {
+    display: block;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submit-btn {
+    margin: 10px;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #c03131;
+    color: #ffffffea;
+    display: block;
+}
+
+.submit-btn:hover {
+    background-color: rgb(173, 6, 189);
+    color: black;
+}
+
 /* footer */
 
 footer {
