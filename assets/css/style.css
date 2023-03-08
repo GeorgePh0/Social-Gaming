@@ -206,7 +206,7 @@ hr {
 /* what we do */
 
 #what-we-do {
-    height: 850px;
+    height: 650px;
 }
 
 .doing-heading {
@@ -523,7 +523,7 @@ h2 > i {
 
 #contact {
     clear: both;
-    height: 900px;
+    height: 850px;
 }
 
 .contact-us-heading {
@@ -580,13 +580,12 @@ textarea {
     border-radius: 2px;
     text-align: center;
     font-size: 100%;
-    background-color: #c03131;
-    color: #ffffffea;
+    background-color: #ffffffea;
+    color: black;
     display: block;
 }
 
 .submit-btn:hover {
-    background-color: rgb(173, 6, 189);
     color: black;
 }
 
