@@ -600,6 +600,12 @@ textarea {
     color: black;
 }
 
+input, textarea {
+    font-family: Genos, sans-serif;
+    font-size: 1rem;
+    padding-left: 15px;
+}
+
 /* footer */
 
 footer {
