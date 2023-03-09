@@ -8,7 +8,7 @@
 
 body {
     font-family: Genos, sans-serif;
-    color: rgb(173, 6, 189);
+    color: rgb(220, 18, 238);
     background-color: black;
     font-size: 28px;
     font-weight: 550;
@@ -57,11 +57,11 @@ h1, h2 {
 }
 
 #navbar a:hover {
-    border-bottom: 5px solid rgb(173, 6, 189);
+    border-bottom: 5px solid rgb(220, 18, 238);
 }
 
 .active {
-    border-bottom: 5px solid rgb(173, 6, 189);
+    border-bottom: 5px solid rgb(220, 18, 238);
 }
 
 /* hero image */
@@ -120,7 +120,7 @@ animation-fill-mode: forwards;
 }
 
 .image-text-two {
-    background-color: rgb(173, 6, 189, .6);
+    background-color: rgb(220, 18, 238, 0.6);
     margin: auto;
     text-decoration: none;
 }
@@ -232,7 +232,7 @@ hr {
     float: right;
     padding: 60px 40px;
     text-align: center;
-    border: 2px solid rgb(173, 6, 189);
+    border: 2px solid rgb(220, 18, 238);
     box-sizing: border-box;
 }
 
@@ -360,7 +360,7 @@ hr {
 }
 
 .events-headings {
-    color: rgb(173, 6, 189);
+    color: rgb(220, 18, 238);
 }
 
 #line-break {
@@ -377,11 +377,19 @@ h2 > i {
 
 /* media queries */
 
-@media screen and (max-width: 1700px) {
+@media screen and (max-width: 1600px) {
     #team {
         width: 65%;
         height: 1700px;
         margin: 0 auto;
+    }
+
+    #team p {
+        text-align: justify;
+    }
+
+    #team h2 {
+        margin-top: 15px;
     }
 
     #meet-the-team {
@@ -537,7 +545,7 @@ h2 > i {
     margin-left: 35%;
     border: 4px solid #ffffffea;
     border-radius: 50px;
-    background-color: rgb(173, 6, 189, 0.1);
+    background-color: rgb(220, 18, 238, 0.1);
     height: 700px;
 }
 
