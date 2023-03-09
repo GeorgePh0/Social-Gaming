@@ -433,6 +433,10 @@ h2 > i {
         height: 200px;
         padding: 0;
     }
+
+    #what-we-do {
+        height: 800px;
+    }
 }
 
 @media screen and (max-width: 1400px) {
@@ -462,11 +466,11 @@ h2 > i {
     }
 
     #team {
-        margin: 0;
+        height: 800px;
     }
 
     #meet-the-team {
-        text-align: left;
+        text-align: center;
         font-size: 40px;
     }
 
@@ -474,6 +478,7 @@ h2 > i {
         margin: 0;
         padding: 0;
         text-align: left;
+        width: 100%;
     }
 
     .right-team-heading {
@@ -481,11 +486,16 @@ h2 > i {
         padding: 0;
         text-align: left;
         float: right;
+        width: 100%;
     }
 
     .doing-heading {
-        text-align: left;
+        text-align: center;
         font-size: 40px;
+    }
+
+    #center-team {
+        display: none;
     }
 
     #wwd-content {
