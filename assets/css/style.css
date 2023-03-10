@@ -378,6 +378,119 @@ h2 > i {
     transform: scale(1.2);
 }
 
+/* contact us hero image text */
+
+#image-text-two {
+    font-size: 120%;
+    font-family: Tomorrow, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    
+    top: 35%;
+    right: 35%;
+    left: 35%;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    position: absolute;
+}
+
+/* contact us */
+
+#contact {
+    clear: both;
+    height: 950px;
+}
+
+.contact-us-heading {
+    margin: 40px;
+    text-align: center;
+}
+
+.contact-form {
+    padding: 30px;
+    border: 4px solid #ffffffea;
+    border-radius: 50px;
+    background-color: rgb(220, 18, 238, 0.1);
+    height: 700px;
+}
+
+.info {
+    margin: 10px;
+}
+
+#game {
+    width: 100%;
+    line-height: 35px;
+    height: 40px;
+    text-align: center;
+    font-size: 90%;
+}
+
+.questionaire {
+    width: 100%;
+    line-height: 35px;
+    margin: 15px 0 30px;
+    font-size: 90%;
+}
+
+.questionaire:hover {
+    border-color: black;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+textarea {
+    display: block;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submit-btn {
+    margin: 10px;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #ffffffea;
+    color: black;
+    display: block;
+}
+
+.submit-btn:hover {
+    color: black;
+}
+
+input, textarea {
+    font-family: Genos, sans-serif;
+    font-size: 1rem;
+    padding-left: 15px;
+}
+
+/* footer */
+
+footer {
+    height: 50px;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons > li {
+    display: inline;
+}
+
+.social-icons i {
+    font-size: 100%;
+    margin: 5%;
+    padding: 2%;
+    color: white;
+}
+
 /* media queries */
 
 @media screen and (max-width: 1600px) {
@@ -613,117 +726,4 @@ h2 > i {
         font-size: 15px;
         height: 220px;
     }
-}
-
-/* contact us hero image text */
-
-#image-text-two {
-    font-size: 120%;
-    font-family: Tomorrow, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    text-align: center;
-    
-    top: 35%;
-    right: 35%;
-    left: 35%;
-
-    padding-top: 10px;
-    padding-right: 10px;
-    position: absolute;
-}
-
-/* contact us */
-
-#contact {
-    clear: both;
-    height: 950px;
-}
-
-.contact-us-heading {
-    margin: 40px;
-    text-align: center;
-}
-
-.contact-form {
-    padding: 30px;
-    border: 4px solid #ffffffea;
-    border-radius: 50px;
-    background-color: rgb(220, 18, 238, 0.1);
-    height: 700px;
-}
-
-.info {
-    margin: 10px;
-}
-
-#game {
-    width: 100%;
-    line-height: 35px;
-    height: 40px;
-    text-align: center;
-    font-size: 90%;
-}
-
-.questionaire {
-    width: 100%;
-    line-height: 35px;
-    margin: 15px 0 30px;
-    font-size: 90%;
-}
-
-.questionaire:hover {
-    border-color: black;
-}
-
-label {
-    text-transform: uppercase;
-}
-
-textarea {
-    display: block;
-    height: 140px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.submit-btn {
-    margin: 10px;
-    border-radius: 2px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #ffffffea;
-    color: black;
-    display: block;
-}
-
-.submit-btn:hover {
-    color: black;
-}
-
-input, textarea {
-    font-family: Genos, sans-serif;
-    font-size: 1rem;
-    padding-left: 15px;
-}
-
-/* footer */
-
-footer {
-    height: 50px;
-}
-
-.social-icons {
-    text-align: center;
-}
-
-.social-icons > li {
-    display: inline;
-}
-
-.social-icons i {
-    font-size: 100%;
-    margin: 5%;
-    padding: 2%;
-    color: white;
 }
