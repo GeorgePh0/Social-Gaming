@@ -450,11 +450,14 @@ textarea {
     margin-right: auto;
 }
 
+button {
+    width: 15%;
+}
+
 .submit-btn {
     margin: 10px;
     border-radius: 2px;
-    text-align: center;
-    font-size: 100%;
+    font-size: 150%;
     background-color: #ffffffea;
     color: black;
     display: block;
