@@ -89,8 +89,16 @@ all move below the logo.
 ### Validator Testing
 
 - [HTML Validation](https://validator.w3.org/)
+    - result for index.html
+        ![HTML result index](./assets/readme-images/html-validator.jpg)
+    - result for events.html
+        ![HTML result events](./assets/readme-images/html-validator.jpg)
+    - result for contact-us.html
+        ![HTML result contact us](./assets/readme-images/html-validator.jpg)
 
 - [CSS Validation](https://jigsaw.w3.org/css-validator/)
+    - result for style.css
+        ![CSS result style](./assets/readme-images/css-validator.jpg)
 
 ### Compatibility
 

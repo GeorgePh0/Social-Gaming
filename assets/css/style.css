@@ -20,7 +20,8 @@ body {
 
 /* headings */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Tomorrow, sans-serif;
     letter-spacing: 6px;
     text-transform: uppercase;
@@ -43,7 +44,8 @@ h1, h2 {
     margin: 20px 0;
 }
 
-#navbar, #logo {
+#navbar,
+#logo {
     line-height: 75px;
 }
 
@@ -76,7 +78,9 @@ h1, h2 {
     position: relative;
 }
 
-#image-text, #image-text h2, #image-text h3 {
+#image-text,
+#image-text h2,
+#image-text h3 {
     color: white;
 }
 
@@ -87,18 +91,20 @@ h1, h2 {
     opacity: 60%;
 
 
-/* animation zoom effect on loading page */
+    /* animation zoom effect on loading page */
 
-animation-name: hero-zoom;
-animation-duration: 2s;
-animation-fill-mode: forwards;
+    animation-name: hero-zoom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
+
 /* level of zoom for hero image */
 
 @keyframes hero-zoom {
     from {
         transform: scale(1.1);
     }
+
     to {
         transform: scale(1);
     }
@@ -112,7 +118,7 @@ animation-fill-mode: forwards;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
-    
+
     top: 25%;
     right: 35%;
     left: 35%;
@@ -168,7 +174,7 @@ animation-fill-mode: forwards;
 }
 
 #circle-bg {
-    background: url(../images/team.png) no-repeat center center ;
+    background: url(../images/team.png) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -370,7 +376,7 @@ hr {
     height: 100px;
 }
 
-h2 > i {
+h2>i {
     color: white;
 }
 
@@ -386,7 +392,7 @@ h2 > i {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
-    
+
     top: 35%;
     right: 35%;
     left: 35%;
@@ -463,7 +469,8 @@ textarea {
     color: black;
 }
 
-input, textarea {
+input,
+textarea {
     font-family: Genos, sans-serif;
     font-size: 1rem;
     padding-left: 15px;
@@ -479,7 +486,7 @@ footer {
     text-align: center;
 }
 
-.social-icons > li {
+.social-icons>li {
     display: inline;
 }
 
@@ -512,7 +519,8 @@ footer {
         margin: 0;
     }
 
-    #left-team, #right-team {
+    #left-team,
+    #right-team {
         width: 100%;
         float: left;
         padding: 0;
@@ -543,7 +551,7 @@ footer {
     #warhammer h3 {
         font-size: 30px;
     }
-    
+
     #dungeons-dragons h3 {
         font-size: 30px;
     }
@@ -558,7 +566,7 @@ footer {
 }
 
 @media screen and (max-width: 1500px) {
-    #wwd-content > div {
+    #wwd-content>div {
         width: 100%;
         clear: both;
         height: 200px;
@@ -581,9 +589,9 @@ footer {
     }
 
     .events-headings {
-        font-size: 35px; 
+        font-size: 35px;
     }
-    
+
     #pokemon-go h3 {
         font-size: 25px;
     }
@@ -591,7 +599,7 @@ footer {
     #warhammer h3 {
         font-size: 25px;
     }
-    
+
     #dungeons-dragons h3 {
         font-size: 25px;
     }
@@ -606,7 +614,7 @@ footer {
 }
 
 @media screen and (max-width: 1200px) {
-    #pokemon-go > div {
+    #pokemon-go>div {
         width: 100%;
         clear: both;
         height: 120px;
@@ -614,15 +622,7 @@ footer {
         text-align: center;
     }
 
-    #warhammer > div {
-        width: 100%;
-        clear: both;
-        height: 120px;
-        padding: 0;
-        text-align: center;
-    }
-    
-    #dungeons-dragons > div {
+    #warhammer>div {
         width: 100%;
         clear: both;
         height: 120px;
@@ -630,7 +630,7 @@ footer {
         text-align: center;
     }
 
-    #board-games > div {
+    #dungeons-dragons>div {
         width: 100%;
         clear: both;
         height: 120px;
@@ -638,7 +638,15 @@ footer {
         text-align: center;
     }
 
-    #gaming-lounge > div {
+    #board-games>div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
+    }
+
+    #gaming-lounge>div {
         width: 100%;
         clear: both;
         height: 120px;
@@ -656,7 +664,7 @@ footer {
     #team {
         font-size: 80%;
     }
-    
+
     #what-we-do {
         font-size: 80%;
     }
@@ -713,7 +721,7 @@ footer {
     #meet-the-team {
         font-size: 25px;
     }
-    
+
     .left-team-heading {
         font-size: 15px;
     }
@@ -722,7 +730,7 @@ footer {
         font-size: 15px;
     }
 
-    #wwd-content > div {
+    #wwd-content>div {
         font-size: 15px;
         height: 220px;
     }
