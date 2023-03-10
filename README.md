@@ -55,25 +55,45 @@ all move below the logo.
 
 ### Hero Image
 
-![Hero Picture](add picture here)
+- The landing area you will see a hero image and text. The hero image shows people playing a game together which identifies the purpose of the website.
+The text infront of the image is to welcome the user to the website and also give them quick access to looking at the upcoming events, this will link
+them to the events page. This fulfills the User Stories for First Time Visitor, as it shows them exactly where to go when landing on the page, and as for
+Frequent Visitor, it helps them navigate quickly to where they want to go, being the schedule for meetups.
+
+![Hero Picture](./assets/readme-images/hero-image-pic.jpg)
 
 ### Meet The Team
+
+- The home page has the option to view the team behind the website. This gives them a chance to look at the people organizing and the people who will be there
+when needed to be contacted. It gives a breif descripton of the person and their favourite game, this will make the user relate to the people and not feel intimidated.
+This fulfills the User Stories Returning Visitor as it gives them an option to learn more about the team.
 
 ![Meet The Team Picture](./assets/readme-images/meet-team-pic.jpg)
 
 ### What We Do
 
+- This part of the home page is found at the bottom before the footer. This fulfills the User Stories Frequent Visitor and a Returning Visitor, as this will help them know
+exacly what the team do and how they can help.  
+
 ![What We Do Picture](./assets/readme-images/what-we-do-pic.jpg)
 
 ### Events Page
+
+- The events page provides information on which events are on, the dates of the events and the time that it starts. When a user hovers over the text of the day they want to go to,
+the text will scale up, becoming bigger than the other texts on the screen to give the user a better chance of knowing the information they want.
 
 ![Events Picture](./assets/readme-images/events-pic.jpg)
 
 ### Contact Page
 
+- The contact us page provides a form for users to fill out and if they have any questions about a specific game they can select that followed by a message box for them to fill out.
+The form has three required fields, First Name, Last Name and Email. This is done so when sending a form to the team, they can see the name and email to respond to.
+
 ![Contact us Picture](./assets/readme-images/contact-us-pic.jpg)
 
 ### Footer
+
+- The footer is the same on all three of the pages and features the same links and icons. Icons and links are - Discord, YouTube, Twitch, Twitter and Facebook.
 
 ![Footer Picture](./assets/readme-images/footer-pic.jpg)
 
