@@ -4,7 +4,7 @@ Social Gaming is a website for people who are looking to join a community of gam
 This website will show people the dates of when the meetups will be happening and where they will be taking place. 
 It will also give people the opportunity to contact the team to gain information or if they are having an issue then to report it.
 
-The live website can be found here (put link in here).
+The live website can be [found here.](https://georgeph0.github.io/Social-Gaming/)
 
 ## Table of Contents
 
@@ -169,3 +169,5 @@ All images were taken from google images and sourced through websites.
 - [Event page PC Lounge](https://pcbang.uk/)
 
 ### Acknowledgements
+
+- Thank you to my mentor Brian Macharia, he gave me very good advice, guided me to know how to execute my project and gave me resources on how to layout and implement certain pieces of code.
