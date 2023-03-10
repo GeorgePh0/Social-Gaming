@@ -111,7 +111,7 @@ I fixed this by using css style display: none; which would remove the image for 
 
 All images were taken from google images and sourced through websites.
 
-- [Hero Image](https://www.pexels.com/photo/a-man-playing-video-games-using-a-computer-9071737/)
+- [Hero Image](https://www.pexels.com/photo/young-men-celebrating-while-playing-e-sports-9072331/)
 - [Meet The Team circle](https://business-bulletin.co.uk/six-ways-to-build-a-winning-team)
 - [What We Do](https://pokemongolive.com/post/tainan-safari-zone/)
 - [Event page Pokemon go](https://www.eurogamer.net/pokemon-go-will-let-you-raid-with-friends-from-home)
