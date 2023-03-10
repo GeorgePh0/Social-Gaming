@@ -25,7 +25,7 @@ h2 {
     font-family: Tomorrow, sans-serif;
     letter-spacing: 6px;
     text-transform: uppercase;
-    color: white;
+    color: #f7f7f7;
 }
 
 /* logo */
@@ -57,7 +57,7 @@ h2 {
 
 #navbar a {
     text-decoration: none;
-    color: white;
+    color: #f7f7f7;
     text-transform: uppercase;
 }
 
@@ -81,7 +81,7 @@ h2 {
 #image-text,
 #image-text h2,
 #image-text h3 {
-    color: white;
+    color: #f7f7f7;
 }
 
 #hero-image {
@@ -171,7 +171,7 @@ h2 {
     height: 400px;
     padding: 30px;
     border-style: solid;
-    border-color: white;
+    border-color: #f7f7f7;
     border-width: 5px;
     margin: 0 auto;
     border-radius: 50%;
@@ -238,7 +238,7 @@ hr {
 }
 
 #wwd-content div {
-    color: white;
+    color: #f7f7f7;
     background-color: rgb(0, 0, 0, .8);
     width: 33.33%;
     height: 500px;
@@ -318,9 +318,9 @@ hr {
     height: 200px;
     float: left;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f7f7f7;
     padding: 40px 0 0 10px;
-    color: white;
+    color: #f7f7f7;
     box-sizing: border-box;
 }
 
@@ -330,9 +330,9 @@ hr {
     height: 200px;
     float: left;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f7f7f7;
     padding: 40px 0 0 10px;
-    color: white;
+    color: #f7f7f7;
     box-sizing: border-box;
 }
 
@@ -342,9 +342,9 @@ hr {
     height: 200px;
     float: left;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f7f7f7;
     padding: 40px 0 0 10px;
-    color: white;
+    color: #f7f7f7;
     box-sizing: border-box;
 }
 
@@ -354,9 +354,9 @@ hr {
     height: 200px;
     float: left;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f7f7f7;
     padding: 40px 0 0 10px;
-    color: white;
+    color: #f7f7f7;
     box-sizing: border-box;
 }
 
@@ -366,9 +366,9 @@ hr {
     height: 200px;
     float: left;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #f7f7f7;
     padding: 40px 0 0 10px;
-    color: white;
+    color: #f7f7f7;
     box-sizing: border-box;
 }
 
@@ -381,7 +381,7 @@ hr {
 }
 
 h2>i {
-    color: white;
+    color: #f7f7f7;
 }
 
 .enlarge:hover {
@@ -420,7 +420,7 @@ h2>i {
 
 .contact-form {
     padding: 30px;
-    border: 4px solid #ffffffea;
+    border: 4px solid #f7f7f7;
     border-radius: 50px;
     background-color: rgb(220, 18, 238, 0.1);
     height: 700px;
@@ -463,7 +463,7 @@ textarea {
 
 .submit-btn {
     font-size: 150%;
-    background-color: #ffffffea;
+    background-color: #f7f7f7;
     color: black;
     width: 25%;
     padding: 0;
@@ -498,7 +498,7 @@ footer {
     font-size: 100%;
     margin: 5%;
     padding: 2%;
-    color: white;
+    color: #f7f7f7;
 }
 
 /* media queries */
