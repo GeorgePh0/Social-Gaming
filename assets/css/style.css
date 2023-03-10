@@ -375,7 +375,7 @@ h2 > i {
 }
 
 .enlarge:hover {
-    transform: scale(1.3);
+    transform: scale(1.2);
 }
 
 /* media queries */
@@ -423,7 +423,26 @@ h2 > i {
         float: left;
         padding: 0;
     }
+
+    #pokemon-go h3 {
+        font-size: 30px;
+    }
+
+    #warhammer h3 {
+        font-size: 30px;
+    }
     
+    #dungeons-dragons h3 {
+        font-size: 30px;
+    }
+
+    #board-games h3 {
+        font-size: 30px;
+    }
+
+    #gaming-lounge h3 {
+        font-size: 30px;
+    }
 }
 
 @media screen and (max-width: 1500px) {
@@ -447,6 +466,72 @@ h2 > i {
 
     #hero-outer {
         font-size: 80%;
+    }
+
+    .events-headings {
+        font-size: 35px; 
+    }
+    
+    #pokemon-go h3 {
+        font-size: 25px;
+    }
+
+    #warhammer h3 {
+        font-size: 25px;
+    }
+    
+    #dungeons-dragons h3 {
+        font-size: 25px;
+    }
+
+    #board-games h3 {
+        font-size: 25px;
+    }
+
+    #gaming-lounge h3 {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #pokemon-go > div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
+    }
+
+    #warhammer > div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
+    }
+    
+    #dungeons-dragons > div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
+    }
+
+    #board-games > div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
+    }
+
+    #gaming-lounge > div {
+        width: 100%;
+        clear: both;
+        height: 120px;
+        padding: 0;
+        text-align: center;
     }
 }
 
