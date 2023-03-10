@@ -59,30 +59,31 @@ all move below the logo.
 
 ### Meet The Team
 
-![Meet The Team Picture](add picture here)
+![Meet The Team Picture](./assets/readme-images/meet-team-pic.jpg)
 
 ### What We Do
 
-![What We Do Picture](add picture here)
+![What We Do Picture](./assets/readme-images/what-we-do-pic.jpg)
 
 ### Events Page
 
-![Events Picture](add picture here)
+![Events Picture](./assets/readme-images/events-pic.jpg)
 
 ### Contact Page
 
-![Contact us Picture](add picture here)
+![Contact us Picture](./assets/readme-images/contact-us-pic.jpg)
 
 ### Footer
 
-![Footer Picture](add picture here)
+![Footer Picture](./assets/readme-images/footer-pic.jpg)
 
 ## **Technologies**
 
-- HTML: I used html, the main language of my project to add structure and content.
-- CSS: I used css to style my website.
-- Google Fonts: I imported the fonts "Tomorrow" and "Genos".
-- Font Awesome: I used this website for icons in the footer for social media links.
+- [HTML](https://en.wikipedia.org/wiki/HTML): I used html, the main language of my project to add structure and content.
+- [CSS](https://en.wikipedia.org/wiki/CSS): I used css to style my website.
+- [Google Fonts](https://fonts.google.com/): I imported the fonts "Tomorrow" and "Genos".
+- [Font Awesome](https://fontawesome.com/): I used this website for icons in the footer for social media links.
+- [Am I responsive](https://ui.dev/amiresponsive): I used this website to check my website was responsive to different screen sizes.
 
 ## **Testing**
 
@@ -102,6 +103,15 @@ all move below the logo.
 
 ### Compatibility
 
+- Testing for compatibility were carried out on these browsers:
+    - Chrome Version 111.0.5563.64
+    - Firefox Version 110.0.1
+    - Edge Version 110.0.1587.69
+    - Safari macOS catalina Version 15.6.1
+
+- Website compatibility
+    - [Website mockup](./assets/readme-images/website-responsive.jpg)
+
 ## **Bugs**
 
 When viewing on a mobile, the image at the bottom of the meet the team section would cause the circle to become an oval and the image will be of the sky. 
@@ -109,11 +119,21 @@ I fixed this by using css style display: none; which would remove the image for 
 
 ## **Deployment**
 
+- How this website was deployed:
+    - 1. In GitHub repository, you navigate to the Settings tab and choose "Pages" on the left hand side.
+    - 2. Make sure source section is "Deploy from a branch", then make sure "main" and "/root" is selected on the branch section and press save.
+    - 3. Any changes being pushed through the "main branch" will be updated on the website.
+
+- How to clone this website:
+    - 1. Go to https://github.com/GeorgePh0/Social-Gaming on GitHub.
+    - 2. Click "Code" next to the green button saying "Gitpod", then click HTTPS and copy the link.
+    - 3. Open GitBash terminal and type "git clone" followed by the copied URL and press ENTER key.
+
 ## **Credits**
 
-### Content
-
 ### Code
+
+- Code on how to grow text on hover for the events text: [CSS scale on hover](https://css-tricks.com/snippets/css/scale-on-hover-with-webkit-transition/)
 
 ### Images
 

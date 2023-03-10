@@ -118,6 +118,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
+    text-decoration: none;
 
     top: 25%;
     right: 35%;
@@ -131,6 +132,9 @@ h2 {
 .image-text-two {
     background-color: rgb(220, 18, 238, 0.6);
     margin: auto;
+}
+
+.text-link {
     text-decoration: none;
 }
 
