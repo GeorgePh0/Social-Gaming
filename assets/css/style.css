@@ -684,8 +684,8 @@ footer {
         font-size: 30px;
     }
 
-    #image-text-two {
-        left: 30%;
+    .image-text-three {
+        font-size: 30px;
     }
 
     #team {
@@ -743,8 +743,7 @@ footer {
         font-size: 15px;
     }
 
-    #image-text-two {
-        left: 15%;
+    .image-text-three {
         font-size: 15px;
     }
     
