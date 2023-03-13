@@ -123,9 +123,6 @@ h2 {
     top: 25%;
     right: 35%;
     left: 35%;
-
-    padding-top: 10px;
-    padding-right: 10px;
     position: absolute;
 }
 
@@ -676,7 +673,19 @@ footer {
 
 @media screen and (max-width: 800px) {
     #image-text {
-        left: 0;
+        left: 30%;
+    }
+
+    .image-text-one {
+        font-size: 30px;
+    }
+
+    .image-text-two {
+        font-size: 30px;
+    }
+
+    #image-text-two {
+        left: 30%;
     }
 
     #team {
@@ -722,6 +731,23 @@ footer {
 }
 
 @media screen and (max-width: 550px) {
+    #hero-outer {
+        height: 400px;
+    }
+    
+    .image-text-one {
+        font-size: 15px;
+    }
+
+    .image-text-two {
+        font-size: 15px;
+    }
+
+    #image-text-two {
+        left: 15%;
+        font-size: 15px;
+    }
+    
     #meet-the-team {
         font-size: 25px;
     }
