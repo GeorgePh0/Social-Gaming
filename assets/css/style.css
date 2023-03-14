@@ -126,9 +126,12 @@ h2 {
     position: absolute;
 }
 
+.image-text-one {
+    margin-bottom: 100px;
+}
+
 .image-text-two {
     background-color: rgb(220, 18, 238, 0.6);
-    margin: auto;
 }
 
 .text-link {
@@ -421,7 +424,9 @@ h2>i {
     border-radius: 50px;
     background-color: rgb(220, 18, 238, 0.1);
     height: 700px;
-    margin: 0 25%;
+    max-width: 600px;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .info {
@@ -673,7 +678,8 @@ footer {
 
 @media screen and (max-width: 800px) {
     #image-text {
-        left: 30%;
+        left: 0;
+        width: 100%;
     }
 
     .image-text-one {
@@ -685,6 +691,7 @@ footer {
     }
 
     .image-text-three {
+        margin-top: 100px;
         font-size: 30px;
     }
 
@@ -731,20 +738,32 @@ footer {
 }
 
 @media screen and (max-width: 550px) {
+    #navbar li {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    
     #hero-outer {
         height: 400px;
     }
+
+    #image-text {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
     
     .image-text-one {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     .image-text-two {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     .image-text-three {
-        font-size: 15px;
+        font-size: 20px;
     }
     
     #meet-the-team {
